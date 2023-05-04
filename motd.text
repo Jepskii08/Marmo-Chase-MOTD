@@ -1,6 +1,6 @@
 MOTD: Welome Marmosets! This is my other new game that I'm working on, I haven't added much yet, but I hope you still like it.
 
-Changelog: Remade the entire game! Added a new sandbox map, go check it out!
+Changelog: Added a new sandbox map. Fixed hitsounds playing when standing still. Added playercolliders
 
-Date: 29.04.23
-Version: 2.4
+Date: 04.05.23
+Version: 2.5
